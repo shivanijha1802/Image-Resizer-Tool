@@ -18,7 +18,7 @@ A batch image resizer built using Python and Pillow which resize & convert image
 ImageResizerTool/
 │
 ├── imageResizer.py           
-├── input_images/                # Folder to place original images(have to create)
+├── input_images/                # Folder to place original images (have to create)
 ├── resized_images/              # Output folder (auto-created)
 ├── README.md
 ```
@@ -45,7 +45,7 @@ pip install pillow
 
 Run in cmd/terminal with:
 ```
-python image_resizer.py
+python imageResizer.py
 ```
 ---
 
